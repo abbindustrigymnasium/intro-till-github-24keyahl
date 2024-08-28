@@ -1,4 +1,8 @@
-hej, jag lyckades.
-yay
+__dsgbsdukbgfkesbfkjn__
 
-jag ändrar filen
+***viktigt***
+>**notes**
+
+<sub>subscript</sub>
+vanlig text
+<sup>superscript</sup>
